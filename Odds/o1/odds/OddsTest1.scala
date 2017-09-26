@@ -12,13 +12,16 @@ object OddsTest1 extends App {
   val firstInput = readInt()
   val secondInput = readInt() 
   
+  val ot = new Odds(firstInput, secondInput)
+  
   println("The odds you entered are:")
-  println("In fractional format: ") 
-  println("In decimal format: ")    
-  println("Event probability: ")    
+  println("In fractional format: "+ot.fractional) 
+  println("In decimal format: "+ot.decimal)
+  println("In moneyline format: "+ot.moneyline)
+  println("Event probability: "+ot.probability)    
 
   println("Please enter the size of a bet:")
   val thirdInput = readDouble()
-  println("If successful, the bettor would claim ")
+  println("If successful, the bettor would claim "+ot.winnings(thirdInput))
   
 }
