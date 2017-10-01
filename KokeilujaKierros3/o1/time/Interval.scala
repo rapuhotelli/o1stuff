@@ -8,17 +8,23 @@ class Interval(val start: Moment, val end: Moment) {
   
   def isLaterThan(moment: Moment):Boolean = this.start.toString.toInt > moment.toString.toInt
   
-  def isLaterThan(another: Interval):Boolean = this.toString > another.toString
+  def isLaterThan(another: Interval):Boolean = {
+    !this.overlaps(another) && this.start.toString.toInt > another.end.toString.toInt
+  }
   
+
   def contains(moment: Moment):Boolean = {
     (moment.isLaterThan(this.start) || (moment.toString == this.start.toString)) && 
     (this.end.isLaterThan(moment) || (moment.toString == this.end.toString))
   }
+   
+  // */
   
-  // lol
   def contains(another: Interval):Boolean = {
-    another.isLaterThan(this.start) && !another.isLaterThan(new Moment(this.start.toString.toInt+another.length))
+    (another.start.toString.toInt >= this.start.toString.toInt) &&
+    (another.end.toString.toInt <= this.end.toString.toInt)
   }
+  
   
   def overlaps(another: Interval) = {
     this.contains(another) ||
@@ -26,7 +32,7 @@ class Interval(val start: Moment, val end: Moment) {
     this.start.isIn(another) ||
     this.end.isIn(another)
   }
-  
+    
   def union(another: Interval) = {
     val uStart: Moment = this.start.earlier(another.start)
     val uEnd: Moment = this.end.later(another.end)

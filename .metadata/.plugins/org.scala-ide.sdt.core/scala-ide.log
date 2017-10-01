@@ -2438,3 +2438,132 @@ java.lang.StringIndexOutOfBoundsException: String index out of range: -1
 2017-10-01 23:41:07,218  WARN [Worker-2] - ScalaProject - Project Odds runs on platform default installation.
 2017-10-01 23:41:07,219  WARN [Worker-2] - ScalaProject - Project O1Yleiset has platform default sourceLevel.
 2017-10-01 23:41:07,219  WARN [Worker-2] - ScalaProject - Project O1Yleiset runs on platform default installation.
+2017-10-01 23:44:46,435 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-10-01 23:44:46,436 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-10-01 23:44:46,436 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-10-01 23:44:47,194  WARN [Worker-7] - ScalaProject - Project KokeilujaKierros3 has platform default sourceLevel.
+2017-10-01 23:44:47,194  WARN [Worker-7] - ScalaProject - Project KokeilujaKierros3 runs on platform default installation.
+2017-10-01 23:44:47,214  WARN [Worker-7] - ScalaProject - Project KokeilujaKierros3 has platform default sourceLevel.
+2017-10-01 23:44:47,214  WARN [Worker-7] - ScalaProject - Project KokeilujaKierros3 runs on platform default installation.
+2017-10-01 23:45:20,285  WARN [Worker-9] - ScalaProject - Project KokeilujaKierros3 has platform default sourceLevel.
+2017-10-01 23:45:20,285  WARN [Worker-9] - ScalaProject - Project KokeilujaKierros3 runs on platform default installation.
+2017-10-01 23:45:57,697  WARN [Worker-7] - ScalaProject - Project KokeilujaKierros3 has platform default sourceLevel.
+2017-10-01 23:45:57,697  WARN [Worker-7] - ScalaProject - Project KokeilujaKierros3 runs on platform default installation.
+2017-10-01 23:46:00,306  WARN [Worker-1] - ScalaProject - Project KokeilujaKierros3 has platform default sourceLevel.
+2017-10-01 23:46:00,306  WARN [Worker-1] - ScalaProject - Project KokeilujaKierros3 runs on platform default installation.
+2017-10-01 23:46:16,375  WARN [Worker-16] - ScalaProject - Project KokeilujaKierros3 has platform default sourceLevel.
+2017-10-01 23:46:16,375  WARN [Worker-16] - ScalaProject - Project KokeilujaKierros3 runs on platform default installation.
+2017-10-01 23:47:28,288  WARN [Worker-6] - ScalaProject - Project KokeilujaKierros3 has platform default sourceLevel.
+2017-10-01 23:47:28,288  WARN [Worker-6] - ScalaProject - Project KokeilujaKierros3 runs on platform default installation.
+2017-10-01 23:49:18,152  WARN [Worker-11] - ScalaProject - Project KokeilujaKierros3 has platform default sourceLevel.
+2017-10-01 23:49:18,152  WARN [Worker-11] - ScalaProject - Project KokeilujaKierros3 runs on platform default installation.
+2017-10-01 23:50:09,566  WARN [Worker-11] - ScalaProject - Project KokeilujaKierros3 has platform default sourceLevel.
+2017-10-01 23:50:09,567  WARN [Worker-11] - ScalaProject - Project KokeilujaKierros3 runs on platform default installation.
+2017-10-01 23:50:25,598  WARN [Worker-5] - ScalaProject - Project KokeilujaKierros3 has platform default sourceLevel.
+2017-10-01 23:50:25,599  WARN [Worker-5] - ScalaProject - Project KokeilujaKierros3 runs on platform default installation.
+2017-10-01 23:52:15,757  WARN [Worker-1] - ScalaProject - Project KokeilujaKierros3 has platform default sourceLevel.
+2017-10-01 23:52:15,757  WARN [Worker-1] - ScalaProject - Project KokeilujaKierros3 runs on platform default installation.
+2017-10-01 23:53:56,899  WARN [Worker-13] - ScalaProject - Project KokeilujaKierros3 has platform default sourceLevel.
+2017-10-01 23:53:56,899  WARN [Worker-13] - ScalaProject - Project KokeilujaKierros3 runs on platform default installation.
+2017-10-01 23:54:05,659  WARN [Worker-14] - ScalaProject - Project KokeilujaKierros3 has platform default sourceLevel.
+2017-10-01 23:54:05,659  WARN [Worker-14] - ScalaProject - Project KokeilujaKierros3 runs on platform default installation.
+2017-10-02 00:00:23,911  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 1410
+2017-10-02 00:00:23,911  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 1424
+2017-10-02 00:00:23,911  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 1432
+2017-10-02 00:00:27,429  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 1410
+2017-10-02 00:00:27,429  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 1426
+2017-10-02 00:00:27,429  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 1434
+2017-10-02 00:00:39,914  WARN [Worker-5] - ScalaProject - Project KokeilujaKierros3 has platform default sourceLevel.
+2017-10-02 00:00:39,914  WARN [Worker-5] - ScalaProject - Project KokeilujaKierros3 runs on platform default installation.
+2017-10-02 00:03:20,611  WARN [Worker-13] - ScalaProject - Project KokeilujaKierros3 has platform default sourceLevel.
+2017-10-02 00:03:20,611  WARN [Worker-13] - ScalaProject - Project KokeilujaKierros3 runs on platform default installation.
+2017-10-02 00:03:30,155  WARN [Worker-2] - ScalaProject - Project KokeilujaKierros3 has platform default sourceLevel.
+2017-10-02 00:03:30,156  WARN [Worker-2] - ScalaProject - Project KokeilujaKierros3 runs on platform default installation.
+2017-10-02 00:03:42,568  WARN [Worker-16] - ScalaProject - Project KokeilujaKierros3 has platform default sourceLevel.
+2017-10-02 00:03:42,568  WARN [Worker-16] - ScalaProject - Project KokeilujaKierros3 runs on platform default installation.
+2017-10-02 00:03:48,298  WARN [Worker-7] - ScalaProject - Project KokeilujaKierros3 has platform default sourceLevel.
+2017-10-02 00:03:48,298  WARN [Worker-7] - ScalaProject - Project KokeilujaKierros3 runs on platform default installation.
+2017-10-02 00:03:53,253  WARN [Worker-19] - ScalaProject - Project KokeilujaKierros3 has platform default sourceLevel.
+2017-10-02 00:03:53,253  WARN [Worker-19] - ScalaProject - Project KokeilujaKierros3 runs on platform default installation.
+2017-10-02 00:04:22,007  WARN [Worker-2] - ScalaProject - Project KokeilujaKierros3 has platform default sourceLevel.
+2017-10-02 00:04:22,007  WARN [Worker-2] - ScalaProject - Project KokeilujaKierros3 runs on platform default installation.
+2017-10-02 00:06:59,709  WARN [Worker-5] - ScalaProject - Project KokeilujaKierros3 has platform default sourceLevel.
+2017-10-02 00:06:59,709  WARN [Worker-5] - ScalaProject - Project KokeilujaKierros3 runs on platform default installation.
+2017-10-02 00:07:06,422  WARN [Worker-1] - ScalaProject - Project KokeilujaKierros3 has platform default sourceLevel.
+2017-10-02 00:07:06,422  WARN [Worker-1] - ScalaProject - Project KokeilujaKierros3 runs on platform default installation.
+2017-10-02 00:07:15,417  WARN [Worker-2] - ScalaProject - Project KokeilujaKierros3 has platform default sourceLevel.
+2017-10-02 00:07:15,417  WARN [Worker-2] - ScalaProject - Project KokeilujaKierros3 runs on platform default installation.
+2017-10-02 00:28:28,221  WARN [Worker-16] - ScalaProject - Project KokeilujaKierros3 has platform default sourceLevel.
+2017-10-02 00:28:28,221  WARN [Worker-16] - ScalaProject - Project KokeilujaKierros3 runs on platform default installation.
+2017-10-02 00:30:38,857  WARN [Worker-3] - ScalaProject - Project KokeilujaKierros3 has platform default sourceLevel.
+2017-10-02 00:30:38,857  WARN [Worker-3] - ScalaProject - Project KokeilujaKierros3 runs on platform default installation.
+2017-10-02 00:30:50,344  WARN [Worker-29] - ScalaProject - Project KokeilujaKierros3 has platform default sourceLevel.
+2017-10-02 00:30:50,344  WARN [Worker-29] - ScalaProject - Project KokeilujaKierros3 runs on platform default installation.
+2017-10-02 00:34:57,028  WARN [Worker-28] - ScalaProject - Project KokeilujaKierros3 has platform default sourceLevel.
+2017-10-02 00:34:57,028  WARN [Worker-28] - ScalaProject - Project KokeilujaKierros3 runs on platform default installation.
+2017-10-02 00:37:24,697  WARN [Worker-4] - ScalaProject - Project KokeilujaKierros3 has platform default sourceLevel.
+2017-10-02 00:37:24,697  WARN [Worker-4] - ScalaProject - Project KokeilujaKierros3 runs on platform default installation.
+2017-10-02 00:38:11,840  WARN [Worker-27] - ScalaProject - Project KokeilujaKierros3 has platform default sourceLevel.
+2017-10-02 00:38:11,840  WARN [Worker-27] - ScalaProject - Project KokeilujaKierros3 runs on platform default installation.
+2017-10-02 00:38:19,900  WARN [Worker-18] - ScalaProject - Project KokeilujaKierros3 has platform default sourceLevel.
+2017-10-02 00:38:19,900  WARN [Worker-18] - ScalaProject - Project KokeilujaKierros3 runs on platform default installation.
+2017-10-02 00:39:28,499  WARN [Worker-26] - ScalaProject - Project KokeilujaKierros3 has platform default sourceLevel.
+2017-10-02 00:39:28,499  WARN [Worker-26] - ScalaProject - Project KokeilujaKierros3 runs on platform default installation.
+2017-10-02 00:39:38,026  WARN [Worker-13] - ScalaProject - Project KokeilujaKierros3 has platform default sourceLevel.
+2017-10-02 00:39:38,026  WARN [Worker-13] - ScalaProject - Project KokeilujaKierros3 runs on platform default installation.
+2017-10-02 00:40:57,986  WARN [Worker-27] - ScalaProject - Project KokeilujaKierros3 has platform default sourceLevel.
+2017-10-02 00:40:57,987  WARN [Worker-27] - ScalaProject - Project KokeilujaKierros3 runs on platform default installation.
+2017-10-02 00:41:19,560  WARN [Worker-11] - ScalaProject - Project KokeilujaKierros3 has platform default sourceLevel.
+2017-10-02 00:41:19,560  WARN [Worker-11] - ScalaProject - Project KokeilujaKierros3 runs on platform default installation.
+2017-10-02 00:44:05,648  WARN [Worker-4] - ScalaProject - Project KokeilujaKierros3 has platform default sourceLevel.
+2017-10-02 00:44:05,648  WARN [Worker-4] - ScalaProject - Project KokeilujaKierros3 runs on platform default installation.
+2017-10-02 00:45:24,278  WARN [Worker-16] - ScalaProject - Project KokeilujaKierros3 has platform default sourceLevel.
+2017-10-02 00:45:24,278  WARN [Worker-16] - ScalaProject - Project KokeilujaKierros3 runs on platform default installation.
+2017-10-02 00:47:01,370  WARN [Worker-16] - ScalaProject - Project KokeilujaKierros3 has platform default sourceLevel.
+2017-10-02 00:47:01,370  WARN [Worker-16] - ScalaProject - Project KokeilujaKierros3 runs on platform default installation.
+2017-10-02 00:47:52,878  WARN [Worker-6] - ScalaProject - Project KokeilujaKierros3 has platform default sourceLevel.
+2017-10-02 00:47:52,878  WARN [Worker-6] - ScalaProject - Project KokeilujaKierros3 runs on platform default installation.
+2017-10-02 00:51:13,904  WARN [Worker-15] - ScalaProject - Project KokeilujaKierros3 has platform default sourceLevel.
+2017-10-02 00:51:13,904  WARN [Worker-15] - ScalaProject - Project KokeilujaKierros3 runs on platform default installation.
+2017-10-02 00:52:01,479  WARN [Worker-6] - ScalaProject - Project KokeilujaKierros3 has platform default sourceLevel.
+2017-10-02 00:52:01,479  WARN [Worker-6] - ScalaProject - Project KokeilujaKierros3 runs on platform default installation.
+2017-10-02 00:54:09,752  WARN [Worker-5] - ScalaProject - Project KokeilujaKierros3 has platform default sourceLevel.
+2017-10-02 00:54:09,752  WARN [Worker-5] - ScalaProject - Project KokeilujaKierros3 runs on platform default installation.
+2017-10-02 00:57:23,631  WARN [Worker-26] - ScalaProject - Project KokeilujaKierros3 has platform default sourceLevel.
+2017-10-02 00:57:23,631  WARN [Worker-26] - ScalaProject - Project KokeilujaKierros3 runs on platform default installation.
+2017-10-02 00:57:29,303  WARN [Worker-0] - ScalaProject - Project Football1 has platform default sourceLevel.
+2017-10-02 00:57:29,303  WARN [Worker-0] - ScalaProject - Project Football1 runs on platform default installation.
+2017-10-02 00:57:29,306  WARN [Worker-0] - ScalaProject - Project Football1 has platform default sourceLevel.
+2017-10-02 00:57:29,306  WARN [Worker-0] - ScalaProject - Project Football1 runs on platform default installation.
+2017-10-02 00:57:29,778  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project KokeilujaKierros3 has platform default sourceLevel.
+2017-10-02 00:57:29,778  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project KokeilujaKierros3 runs on platform default installation.
+2017-10-02 00:57:29,852  WARN [Worker-0] - ScalaProject - Project KokeilujaKierros3 has platform default sourceLevel.
+2017-10-02 00:57:29,852  WARN [Worker-0] - ScalaProject - Project KokeilujaKierros3 runs on platform default installation.
+2017-10-02 00:57:30,492  WARN [Worker-0] - ScalaProject - Project AuctionHouse1 has platform default sourceLevel.
+2017-10-02 00:57:30,492  WARN [Worker-0] - ScalaProject - Project AuctionHouse1 runs on platform default installation.
+2017-10-02 00:57:30,501  WARN [Worker-0] - ScalaProject - Project AuctionHouse1 has platform default sourceLevel.
+2017-10-02 00:57:30,502  WARN [Worker-0] - ScalaProject - Project AuctionHouse1 runs on platform default installation.
+2017-10-02 00:57:34,791  WARN [Worker-12] - ScalaProject - Project AuctionHouse1 has platform default sourceLevel.
+2017-10-02 00:57:34,791  WARN [Worker-12] - ScalaProject - Project AuctionHouse1 runs on platform default installation.
+2017-10-02 00:57:37,685  WARN [Worker-10] - ScalaProject - Project KokeilujaKierros3 has platform default sourceLevel.
+2017-10-02 00:57:37,685  WARN [Worker-10] - ScalaProject - Project KokeilujaKierros3 runs on platform default installation.
+2017-10-02 00:57:41,868  WARN [Worker-30] - ScalaProject - Project KokeilujaKierros3 has platform default sourceLevel.
+2017-10-02 00:57:41,868  WARN [Worker-30] - ScalaProject - Project KokeilujaKierros3 runs on platform default installation.
+2017-10-02 00:58:50,248  WARN [Worker-0] - ScalaProject - Project KokeilujaKierros3 has platform default sourceLevel.
+2017-10-02 00:58:50,249  WARN [Worker-0] - ScalaProject - Project KokeilujaKierros3 runs on platform default installation.
+2017-10-02 00:59:25,234  WARN [Worker-4] - ScalaProject - Project KokeilujaKierros3 has platform default sourceLevel.
+2017-10-02 00:59:25,234  WARN [Worker-4] - ScalaProject - Project KokeilujaKierros3 runs on platform default installation.
+2017-10-02 01:00:00,609  WARN [Worker-4] - ScalaProject - Project KokeilujaKierros3 has platform default sourceLevel.
+2017-10-02 01:00:00,610  WARN [Worker-4] - ScalaProject - Project KokeilujaKierros3 runs on platform default installation.
+2017-10-02 01:00:26,230  WARN [Worker-15] - ScalaProject - Project KokeilujaKierros3 has platform default sourceLevel.
+2017-10-02 01:00:26,230  WARN [Worker-15] - ScalaProject - Project KokeilujaKierros3 runs on platform default installation.
+2017-10-02 01:00:41,040  WARN [Worker-0] - ScalaProject - Project KokeilujaKierros3 has platform default sourceLevel.
+2017-10-02 01:00:41,040  WARN [Worker-0] - ScalaProject - Project KokeilujaKierros3 runs on platform default installation.
+2017-10-02 01:04:49,985  WARN [Worker-28] - ScalaProject - Project KokeilujaKierros3 has platform default sourceLevel.
+2017-10-02 01:04:49,985  WARN [Worker-28] - ScalaProject - Project KokeilujaKierros3 runs on platform default installation.
+2017-10-02 01:06:27,381  WARN [Worker-5] - ScalaProject - Project KokeilujaKierros3 has platform default sourceLevel.
+2017-10-02 01:06:27,381  WARN [Worker-5] - ScalaProject - Project KokeilujaKierros3 runs on platform default installation.
+2017-10-02 01:06:40,269  WARN [Worker-26] - ScalaProject - Project KokeilujaKierros3 has platform default sourceLevel.
+2017-10-02 01:06:40,269  WARN [Worker-26] - ScalaProject - Project KokeilujaKierros3 runs on platform default installation.
+2017-10-02 01:06:48,942  WARN [Worker-16] - ScalaProject - Project KokeilujaKierros3 has platform default sourceLevel.
+2017-10-02 01:06:48,942  WARN [Worker-16] - ScalaProject - Project KokeilujaKierros3 runs on platform default installation.

@@ -60,4 +60,27 @@ object TimeTest extends App {
 
   println("\n")
   println("Intersection should be 1995-2000: "+ new Interval(new Moment(1980), new Moment(2000)).intersection(new Interval(new Moment(1995), new Moment(2005))))
+  
+  println("\nLater Than")
+  println("True: 2006 is later than 2001-2005: "+ new Moment(2006).isLaterThan(new Interval(new Moment(2001), new Moment(2005))))
+  println("False: 2004 is later than 2001-2005: "+ new Moment(2004).isLaterThan(new Interval(new Moment(2001), new Moment(2005))))
+  
+  println("\nInterval later than")
+  println("True: 1902-1989 is later than 1884-1893: "+ new Interval(new Moment(1902), new Moment(1989)).isLaterThan(new Interval(new Moment(1884), new Moment(1893))))
+  println("False: 1902-1989 is later than 1893-1902: "+ new Interval(new Moment(1902), new Moment(1989)).isLaterThan(new Interval(new Moment(1893), new Moment(1902))))
+      
+  println("\nErrors")
+  println("False: 1937-2008 contains 1946-2017: "+ new Interval(new Moment(1937), new Moment(2008)).contains(new Interval(new Moment(1946), new Moment(2017))))
+  println("False: 1918-2002 contains 1913-2002: "+ new Interval(new Moment(1918), new Moment(2002)).contains(new Interval(new Moment(1913), new Moment(2002))))
+  println("True: 29255 is later than 873-4033: "+new Moment(29255).isLaterThan(new Interval(new Moment(873), new Moment(4033))))
+  
+  println("\n")
+  println("True: "+new Interval(new Moment(1918), new Moment(2002))+" contains "+new Interval(new Moment(1918), new Moment(1923))+": "+ new Interval(new Moment(1918), new Moment(2002)).contains(new Interval(new Moment(1918), new Moment(1923))))
+  println("True: 1918-2002 contains 1918-1923: "+ new Interval(new Moment(1918), new Moment(2002)).contains(new Interval(new Moment(1918), new Moment(1923))))
+  println("\nInterval overlaps")
+  println("True: 1962-1981 overlaps 1971-2003: "+new Interval(new Moment(1962), new Moment(1981)).overlaps(new Interval(new Moment(1971), new Moment(2003))))
+  println("False: 1995-2016 overlaps 1975-1982: "+new Interval(new Moment(1975), new Moment(1982)).overlaps(new Interval(new Moment(1995), new Moment(2016))))
+  
+  
+  
 }
