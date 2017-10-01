@@ -22,6 +22,23 @@ class Odds(val wont: Int, val will: Int) {
     else
       -100*this.will/this.wont
   }
+  
+  def both(other: Odds) = {
+    val bothHappen = new Odds(this.wont * other.wont + this.wont * other.will + this.will * other.wont,
+                              this.will * other.will)
+    bothHappen
+  }
+  
+  def not = new Odds(this.will, this.wont)
+ 
+  def either(other: Odds) = {
+    val wont = this.wont*other.wont
+    val will = this.wont*other.will + this.will*other.wont + this.will*other.will
+    new Odds(wont, will)
+  }
+  
+  override def toString = this.fractional
+  
 }
 
 

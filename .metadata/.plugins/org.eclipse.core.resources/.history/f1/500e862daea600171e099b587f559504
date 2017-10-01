@@ -1,0 +1,26 @@
+package o1.auctionhouse
+
+class FixedPriceSale(val description: String, private val price: Int, private var duration: Int) {
+  
+  // Privates
+  private var isBuyable:Boolean = this.duration > 0 
+  
+  private def checkSaleExpiration = {
+    this.isBuyable = this.duration > 0
+  }
+  
+  // Publics
+  def advanceOneDay = {
+    this.duration = this.duration - 1
+    this.checkSaleExpiration
+  }
+  
+  def buy(buyer: String)
+  
+  def buyer: Option[String] = None
+
+  def daysLeft = this.duration
+  
+  
+  
+}

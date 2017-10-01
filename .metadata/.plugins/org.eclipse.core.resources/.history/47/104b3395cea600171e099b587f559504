@@ -1,0 +1,31 @@
+package o1.time
+
+object TimeTest extends App {
+  
+  val m1 = new Moment(2000)
+  val m2 = new Moment(2013)
+  
+  println("m1: "+m1)
+  println("m2: "+m2)
+  
+  println("m1 distance to m2: "+ m1.distance(m2))
+  println("m2 distance to m1: "+ m2.distance(m1))
+  
+  println("m1 islaterthan m2: "+ m1.isLaterThan(m2))
+  println("m2 islaterthan m1: "+ m2.isLaterThan(m1))
+  
+  println("m1 later than m2: "+ m1.later(m2))
+  println("m1 earlier than m2: "+ m1.earlier(m2))
+  
+  val i1 = new Interval(m1, m2)
+  val i2 = new Interval(new Moment(2001), new Moment(2001))
+  val i3 = new Interval(new Moment(2001), new Moment(2061))
+  
+  println("i1 tostring: "+i1)
+  println("i2 tostring: "+i2)
+  println("i3 tostring: "+i3)
+  
+  println("Interval 2001 is later than 1990: "+i2.isLaterThan(new Moment(1990)))
+  println("Interval 2001 is later than 2009: "+i2.isLaterThan(new Moment(2009)))
+  
+}

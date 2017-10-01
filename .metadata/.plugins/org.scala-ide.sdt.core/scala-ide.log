@@ -1910,3 +1910,531 @@ Caused by: com.cedarsoftware.util.io.JsonIoException: EOF reached prematurely
 2017-09-25 23:36:17,513  WARN [main] - ScalaProject - Project GoodStuff runs on platform default installation.
 2017-09-25 23:37:27,733  WARN [main] - ScalaProject - Project KokeilujaKierros2 has platform default sourceLevel.
 2017-09-25 23:37:27,733  WARN [main] - ScalaProject - Project KokeilujaKierros2 runs on platform default installation.
+2017-09-26 19:13:39,216  WARN [main] - ScalaProject - Project KokeilujaKierros2 has platform default sourceLevel.
+2017-09-26 19:13:39,217  WARN [main] - ScalaProject - Project KokeilujaKierros2 runs on platform default installation.
+2017-09-26 19:13:39,222  WARN [main] - ScalaProject - Project KokeilujaKierros2 has platform default sourceLevel.
+2017-09-26 19:13:39,223  WARN [main] - ScalaProject - Project KokeilujaKierros2 runs on platform default installation.
+2017-09-26 19:13:39,303  WARN [main] - ScalaProject - Project O1Yleiset has platform default sourceLevel.
+2017-09-26 19:13:39,303  WARN [main] - ScalaProject - Project O1Yleiset runs on platform default installation.
+2017-09-26 19:13:42,040  WARN [main] - ScalaProject - Project Ave has platform default sourceLevel.
+2017-09-26 19:13:42,040  WARN [main] - ScalaProject - Project Ave runs on platform default installation.
+2017-09-26 19:13:42,064  WARN [main] - ScalaProject - Project GoodStuff has platform default sourceLevel.
+2017-09-26 19:13:42,064  WARN [main] - ScalaProject - Project GoodStuff runs on platform default installation.
+2017-09-26 19:13:42,066  WARN [main] - ScalaProject - Project KokeilujaKierros1 has platform default sourceLevel.
+2017-09-26 19:13:42,066  WARN [main] - ScalaProject - Project KokeilujaKierros1 runs on platform default installation.
+2017-09-26 19:13:43,232  WARN [Worker-6] - ScalaProject - Project Odds has platform default sourceLevel.
+2017-09-26 19:13:43,233  WARN [Worker-6] - ScalaProject - Project Odds runs on platform default installation.
+2017-09-26 19:15:38,074  WARN [ModalContext] - ScalaProject - Project KokeilujaKierros3 has platform default sourceLevel.
+2017-09-26 19:15:38,075  WARN [ModalContext] - ScalaProject - Project KokeilujaKierros3 runs on platform default installation.
+2017-09-26 19:15:38,190  WARN [ModalContext] - ScalaProject - Project KokeilujaKierros3 has platform default sourceLevel.
+2017-09-26 19:15:38,190  WARN [ModalContext] - ScalaProject - Project KokeilujaKierros3 runs on platform default installation.
+2017-09-26 19:15:38,382  WARN [Worker-1] - ScalaProject - Project KokeilujaKierros3 has platform default sourceLevel.
+2017-09-26 19:15:38,382  WARN [Worker-1] - ScalaProject - Project KokeilujaKierros3 runs on platform default installation.
+2017-09-26 19:15:38,930  WARN [Worker-8] - ScalaProject - Project KokeilujaKierros3 has platform default sourceLevel.
+2017-09-26 19:15:38,930  WARN [Worker-8] - ScalaProject - Project KokeilujaKierros3 runs on platform default installation.
+2017-09-26 19:15:44,827  WARN [Worker-9] - ScalaProject - Project KokeilujaKierros3 has platform default sourceLevel.
+2017-09-26 19:15:44,827  WARN [Worker-9] - ScalaProject - Project KokeilujaKierros3 runs on platform default installation.
+2017-09-26 19:15:49,915  WARN [ModalContext] - ScalaProject - Project Football1 has platform default sourceLevel.
+2017-09-26 19:15:49,915  WARN [ModalContext] - ScalaProject - Project Football1 runs on platform default installation.
+2017-09-26 19:15:49,926  WARN [ModalContext] - ScalaProject - Project Football1 has platform default sourceLevel.
+2017-09-26 19:15:49,926  WARN [ModalContext] - ScalaProject - Project Football1 runs on platform default installation.
+2017-09-26 19:15:49,945  WARN [Worker-6] - ScalaProject - Project Football1 has platform default sourceLevel.
+2017-09-26 19:15:49,945  WARN [Worker-6] - ScalaProject - Project Football1 runs on platform default installation.
+2017-09-26 19:15:50,308  WARN [Worker-9] - ScalaProject - Project Football1 has platform default sourceLevel.
+2017-09-26 19:15:50,308  WARN [Worker-9] - ScalaProject - Project Football1 runs on platform default installation.
+2017-09-26 19:15:51,932  WARN [Worker-9] - ScalaProject - Project Football1 has platform default sourceLevel.
+2017-09-26 19:15:51,933  WARN [Worker-9] - ScalaProject - Project Football1 runs on platform default installation.
+2017-09-26 20:44:56,011  WARN [main] - ScalaProject - Project Odds has platform default sourceLevel.
+2017-09-26 20:44:56,012  WARN [main] - ScalaProject - Project Odds runs on platform default installation.
+2017-09-26 20:59:19,037  WARN [Worker-21] - ScalaProject - Project Odds has platform default sourceLevel.
+2017-09-26 20:59:19,038  WARN [Worker-21] - ScalaProject - Project Odds runs on platform default installation.
+2017-09-26 20:59:19,041  WARN [Worker-21] - ScalaProject - Project Odds has platform default sourceLevel.
+2017-09-26 20:59:19,041  WARN [Worker-21] - ScalaProject - Project Odds runs on platform default installation.
+2017-09-26 21:01:43,457  WARN [Worker-47] - ScalaProject - Project Odds has platform default sourceLevel.
+2017-09-26 21:01:43,457  WARN [Worker-47] - ScalaProject - Project Odds runs on platform default installation.
+2017-09-26 21:01:58,279  WARN [Worker-21] - ScalaProject - Project Odds has platform default sourceLevel.
+2017-09-26 21:01:58,279  WARN [Worker-21] - ScalaProject - Project Odds runs on platform default installation.
+2017-09-26 21:02:28,524  WARN [Worker-39] - ScalaProject - Project Odds has platform default sourceLevel.
+2017-09-26 21:02:28,524  WARN [Worker-39] - ScalaProject - Project Odds runs on platform default installation.
+2017-10-01 12:36:00,056  WARN [main] - ScalaProject - Project Odds has platform default sourceLevel.
+2017-10-01 12:36:00,058  WARN [main] - ScalaProject - Project Odds runs on platform default installation.
+2017-10-01 12:36:00,063  WARN [main] - ScalaProject - Project Odds has platform default sourceLevel.
+2017-10-01 12:36:00,063  WARN [main] - ScalaProject - Project Odds runs on platform default installation.
+2017-10-01 12:36:02,491  WARN [main] - ScalaProject - Project Ave has platform default sourceLevel.
+2017-10-01 12:36:02,491  WARN [main] - ScalaProject - Project Ave runs on platform default installation.
+2017-10-01 12:36:02,509  WARN [main] - ScalaProject - Project Football1 has platform default sourceLevel.
+2017-10-01 12:36:02,509  WARN [main] - ScalaProject - Project Football1 runs on platform default installation.
+2017-10-01 12:36:02,520  WARN [main] - ScalaProject - Project GoodStuff has platform default sourceLevel.
+2017-10-01 12:36:02,520  WARN [main] - ScalaProject - Project GoodStuff runs on platform default installation.
+2017-10-01 12:36:02,521  WARN [main] - ScalaProject - Project KokeilujaKierros1 has platform default sourceLevel.
+2017-10-01 12:36:02,521  WARN [main] - ScalaProject - Project KokeilujaKierros1 runs on platform default installation.
+2017-10-01 12:36:02,523  WARN [main] - ScalaProject - Project KokeilujaKierros2 has platform default sourceLevel.
+2017-10-01 12:36:02,523  WARN [main] - ScalaProject - Project KokeilujaKierros2 runs on platform default installation.
+2017-10-01 12:36:02,524  WARN [main] - ScalaProject - Project KokeilujaKierros3 has platform default sourceLevel.
+2017-10-01 12:36:02,524  WARN [main] - ScalaProject - Project KokeilujaKierros3 runs on platform default installation.
+2017-10-01 12:36:02,525  WARN [main] - ScalaProject - Project O1Yleiset has platform default sourceLevel.
+2017-10-01 12:36:02,525  WARN [main] - ScalaProject - Project O1Yleiset runs on platform default installation.
+2017-10-01 12:43:41,102  WARN [main] - ScalaProject - Project Football1 has platform default sourceLevel.
+2017-10-01 12:43:41,102  WARN [main] - ScalaProject - Project Football1 runs on platform default installation.
+2017-10-01 12:56:27,983  WARN [Worker-23] - ScalaProject - Project Football1 has platform default sourceLevel.
+2017-10-01 12:56:27,984  WARN [Worker-23] - ScalaProject - Project Football1 runs on platform default installation.
+2017-10-01 12:56:28,009  WARN [Worker-23] - ScalaProject - Project Football1 has platform default sourceLevel.
+2017-10-01 12:56:28,009  WARN [Worker-23] - ScalaProject - Project Football1 runs on platform default installation.
+2017-10-01 12:56:53,153  WARN [main] - ScalaProject - Project Odds has platform default sourceLevel.
+2017-10-01 12:56:53,154  WARN [main] - ScalaProject - Project Odds runs on platform default installation.
+2017-10-01 12:57:12,481  WARN [Worker-17] - ScalaProject - Project Football1 has platform default sourceLevel.
+2017-10-01 12:57:12,481  WARN [Worker-17] - ScalaProject - Project Football1 runs on platform default installation.
+2017-10-01 12:58:10,512  WARN [Worker-23] - ScalaProject - Project Football1 has platform default sourceLevel.
+2017-10-01 12:58:10,512  WARN [Worker-23] - ScalaProject - Project Football1 runs on platform default installation.
+2017-10-01 13:01:25,703  WARN [main] - ScalaProject - Project Odds has platform default sourceLevel.
+2017-10-01 13:01:25,704  WARN [main] - ScalaProject - Project Odds runs on platform default installation.
+2017-10-01 13:02:47,823  WARN [Worker-27] - ScalaProject - Project Football1 has platform default sourceLevel.
+2017-10-01 13:02:47,823  WARN [Worker-27] - ScalaProject - Project Football1 runs on platform default installation.
+2017-10-01 13:03:16,345  WARN [Worker-22] - ScalaProject - Project Football1 has platform default sourceLevel.
+2017-10-01 13:03:16,345  WARN [Worker-22] - ScalaProject - Project Football1 runs on platform default installation.
+2017-10-01 13:03:36,948  WARN [Worker-24] - ScalaProject - Project Football1 has platform default sourceLevel.
+2017-10-01 13:03:36,948  WARN [Worker-24] - ScalaProject - Project Football1 runs on platform default installation.
+2017-10-01 13:04:34,258  WARN [Worker-3] - ScalaProject - Project Football1 has platform default sourceLevel.
+2017-10-01 13:04:34,258  WARN [Worker-3] - ScalaProject - Project Football1 runs on platform default installation.
+2017-10-01 13:04:52,595  WARN [Worker-30] - ScalaProject - Project Football1 has platform default sourceLevel.
+2017-10-01 13:04:52,596  WARN [Worker-30] - ScalaProject - Project Football1 runs on platform default installation.
+2017-10-01 13:05:03,892  WARN [Worker-21] - ScalaProject - Project Football1 has platform default sourceLevel.
+2017-10-01 13:05:03,892  WARN [Worker-21] - ScalaProject - Project Football1 runs on platform default installation.
+2017-10-01 13:05:09,299  WARN [Worker-35] - ScalaProject - Project Football1 has platform default sourceLevel.
+2017-10-01 13:05:09,299  WARN [Worker-35] - ScalaProject - Project Football1 runs on platform default installation.
+2017-10-01 13:11:44,431  WARN [Worker-14] - ScalaProject - Project Football1 has platform default sourceLevel.
+2017-10-01 13:11:44,431  WARN [Worker-14] - ScalaProject - Project Football1 runs on platform default installation.
+2017-10-01 13:20:11,418 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Unexptected error - most likely due to an illegal position
+java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+	at java.lang.String.substring(Unknown Source)
+	at scala.tools.refactoring.common.EnrichedTrees$TreeMethodsForPositions.nameString(EnrichedTrees.scala:355)
+	at scala.tools.refactoring.common.EnrichedTrees$TreeMethodsForPositions.namePosition(EnrichedTrees.scala:255)
+	at org.scalaide.core.internal.decorators.semantichighlighting.classifier.SafeSymbol.$anonfun$safeSymbol$15(SafeSymbol.scala:138)
+	at scala.tools.nsc.util.InterruptReq.execute(InterruptReq.scala:26)
+	at scala.tools.nsc.interactive.Global.$anonfun$pollForWork$1(Global.scala:444)
+	at scala.tools.nsc.interactive.Global.pollForWork(Global.scala:418)
+	at scala.tools.nsc.interactive.PresentationCompilerThread.run(PresentationCompilerThread.scala:22)
+2017-10-01 13:59:22,671  WARN [Worker-49] - ScalaProject - Project Football1 has platform default sourceLevel.
+2017-10-01 13:59:22,671  WARN [Worker-49] - ScalaProject - Project Football1 runs on platform default installation.
+2017-10-01 14:00:06,431  WARN [Worker-37] - ScalaProject - Project Football1 has platform default sourceLevel.
+2017-10-01 14:00:06,431  WARN [Worker-37] - ScalaProject - Project Football1 runs on platform default installation.
+2017-10-01 14:00:17,584  WARN [Worker-57] - ScalaProject - Project Football1 has platform default sourceLevel.
+2017-10-01 14:00:17,584  WARN [Worker-57] - ScalaProject - Project Football1 runs on platform default installation.
+2017-10-01 14:02:31,764  WARN [Worker-46] - ScalaProject - Project Football1 has platform default sourceLevel.
+2017-10-01 14:02:31,764  WARN [Worker-46] - ScalaProject - Project Football1 runs on platform default installation.
+2017-10-01 14:03:41,834  WARN [Worker-49] - ScalaProject - Project Football1 has platform default sourceLevel.
+2017-10-01 14:03:41,834  WARN [Worker-49] - ScalaProject - Project Football1 runs on platform default installation.
+2017-10-01 14:05:39,734  WARN [Worker-1] - ScalaProject - Project Football1 has platform default sourceLevel.
+2017-10-01 14:05:39,734  WARN [Worker-1] - ScalaProject - Project Football1 runs on platform default installation.
+2017-10-01 14:08:36,755  WARN [Worker-24] - ScalaProject - Project Football1 has platform default sourceLevel.
+2017-10-01 14:08:36,755  WARN [Worker-24] - ScalaProject - Project Football1 runs on platform default installation.
+2017-10-01 14:08:57,914  WARN [Worker-36] - ScalaProject - Project Football1 has platform default sourceLevel.
+2017-10-01 14:08:57,914  WARN [Worker-36] - ScalaProject - Project Football1 runs on platform default installation.
+2017-10-01 14:09:19,333  WARN [Worker-39] - ScalaProject - Project Football1 has platform default sourceLevel.
+2017-10-01 14:09:19,333  WARN [Worker-39] - ScalaProject - Project Football1 runs on platform default installation.
+2017-10-01 14:10:08,128  WARN [Worker-46] - ScalaProject - Project Football1 has platform default sourceLevel.
+2017-10-01 14:10:08,128  WARN [Worker-46] - ScalaProject - Project Football1 runs on platform default installation.
+2017-10-01 16:13:23,664  WARN [ModalContext] - ScalaProject - Project AuctionHouse1 has platform default sourceLevel.
+2017-10-01 16:13:23,664  WARN [ModalContext] - ScalaProject - Project AuctionHouse1 runs on platform default installation.
+2017-10-01 16:13:23,782  WARN [ModalContext] - ScalaProject - Project AuctionHouse1 has platform default sourceLevel.
+2017-10-01 16:13:23,782  WARN [ModalContext] - ScalaProject - Project AuctionHouse1 runs on platform default installation.
+2017-10-01 16:13:23,831  WARN [Worker-143] - ScalaProject - Project AuctionHouse1 has platform default sourceLevel.
+2017-10-01 16:13:23,831  WARN [Worker-143] - ScalaProject - Project AuctionHouse1 runs on platform default installation.
+2017-10-01 16:13:24,253  WARN [Worker-57] - ScalaProject - Project AuctionHouse1 has platform default sourceLevel.
+2017-10-01 16:13:24,253  WARN [Worker-57] - ScalaProject - Project AuctionHouse1 runs on platform default installation.
+2017-10-01 16:13:27,332  WARN [Worker-141] - ScalaProject - Project AuctionHouse1 has platform default sourceLevel.
+2017-10-01 16:13:27,332  WARN [Worker-141] - ScalaProject - Project AuctionHouse1 runs on platform default installation.
+2017-10-01 16:21:37,415  WARN [main] - ScalaProject - Project AuctionHouse1 has platform default sourceLevel.
+2017-10-01 16:21:37,415  WARN [main] - ScalaProject - Project AuctionHouse1 runs on platform default installation.
+2017-10-01 16:22:55,719  WARN [main] - ScalaProject - Project AuctionHouse1 has platform default sourceLevel.
+2017-10-01 16:22:55,719  WARN [main] - ScalaProject - Project AuctionHouse1 runs on platform default installation.
+2017-10-01 16:22:55,891  WARN [Worker-153] - ScalaProject - Project AuctionHouse1 has platform default sourceLevel.
+2017-10-01 16:22:55,891  WARN [Worker-153] - ScalaProject - Project AuctionHouse1 runs on platform default installation.
+2017-10-01 16:29:45,986  WARN [main] - ScalaProject - Project Odds has platform default sourceLevel.
+2017-10-01 16:29:45,986  WARN [main] - ScalaProject - Project Odds runs on platform default installation.
+2017-10-01 16:29:53,786  WARN [main] - ScalaProject - Project Football1 has platform default sourceLevel.
+2017-10-01 16:29:53,786  WARN [main] - ScalaProject - Project Football1 runs on platform default installation.
+2017-10-01 16:33:12,444 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-10-01 16:33:12,444 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-10-01 16:33:12,444 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-10-01 16:33:33,887  WARN [Worker-129] - ScalaProject - Project AuctionHouse1 has platform default sourceLevel.
+2017-10-01 16:33:33,887  WARN [Worker-129] - ScalaProject - Project AuctionHouse1 runs on platform default installation.
+2017-10-01 16:34:08,512  WARN [Worker-162] - ScalaProject - Project AuctionHouse1 has platform default sourceLevel.
+2017-10-01 16:34:08,512  WARN [Worker-162] - ScalaProject - Project AuctionHouse1 runs on platform default installation.
+2017-10-01 16:37:51,337  WARN [Worker-108] - ScalaProject - Project AuctionHouse1 has platform default sourceLevel.
+2017-10-01 16:37:51,337  WARN [Worker-108] - ScalaProject - Project AuctionHouse1 runs on platform default installation.
+2017-10-01 16:38:07,930  WARN [Worker-169] - ScalaProject - Project AuctionHouse1 has platform default sourceLevel.
+2017-10-01 16:38:07,931  WARN [Worker-169] - ScalaProject - Project AuctionHouse1 runs on platform default installation.
+2017-10-01 16:38:25,358  WARN [Worker-162] - ScalaProject - Project AuctionHouse1 has platform default sourceLevel.
+2017-10-01 16:38:25,358  WARN [Worker-162] - ScalaProject - Project AuctionHouse1 runs on platform default installation.
+2017-10-01 16:38:52,104 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Unexptected error - most likely due to an illegal position
+java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+	at java.lang.String.substring(Unknown Source)
+	at scala.tools.refactoring.common.EnrichedTrees$TreeMethodsForPositions.nameString(EnrichedTrees.scala:355)
+	at scala.tools.refactoring.common.EnrichedTrees$TreeMethodsForPositions.namePosition(EnrichedTrees.scala:255)
+	at org.scalaide.core.internal.decorators.semantichighlighting.classifier.SafeSymbol.$anonfun$safeSymbol$15(SafeSymbol.scala:138)
+	at scala.tools.nsc.util.InterruptReq.execute(InterruptReq.scala:26)
+	at scala.tools.nsc.interactive.Global.$anonfun$pollForWork$1(Global.scala:444)
+	at scala.tools.nsc.interactive.Global.pollForWork(Global.scala:418)
+	at scala.tools.nsc.interactive.Global.checkForMoreWork(Global.scala:507)
+	at scala.tools.nsc.interactive.Global.signalDone(Global.scala:348)
+	at scala.tools.nsc.typechecker.Typers$Typer.runTyper$1(Typers.scala:5585)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedInternal(Typers.scala:5593)
+	at scala.tools.nsc.typechecker.Typers$Typer.body$2(Typers.scala:5537)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5541)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedByValueExpr(Typers.scala:5624)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedStat$1(Typers.scala:3075)
+	at scala.tools.nsc.typechecker.Typers$Typer.$anonfun$typedStats$9(Typers.scala:3219)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedStats(Typers.scala:3219)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedTemplate(Typers.scala:1987)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedModuleDef(Typers.scala:1858)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedMemberDef$1(Typers.scala:5477)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed1(Typers.scala:5526)
+	at scala.tools.nsc.typechecker.Typers$Typer.runTyper$1(Typers.scala:5563)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedInternal(Typers.scala:5593)
+	at scala.tools.nsc.typechecker.Typers$Typer.body$2(Typers.scala:5537)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5541)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedDocDef(Typers.scala:149)
+	at org.scalaide.core.internal.compiler.InteractiveScaladocAnalyzer$$anon$1.scala$tools$nsc$doc$ScaladocAnalyzer$ScaladocTyper$$super$typedDocDef(ScaladocGlobalCompatibilityTrait.scala:10)
+	at scala.tools.nsc.doc.ScaladocAnalyzer$ScaladocTyper.typedDocDef(ScaladocAnalyzer.scala:52)
+	at scala.tools.nsc.doc.ScaladocAnalyzer$ScaladocTyper.typedDocDef$(ScaladocAnalyzer.scala:31)
+	at org.scalaide.core.internal.compiler.InteractiveScaladocAnalyzer$$anon$1.typedDocDef(ScaladocGlobalCompatibilityTrait.scala:10)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedOutsidePatternMode$1(Typers.scala:5502)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedInAnyMode$1(Typers.scala:5520)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed1(Typers.scala:5527)
+	at scala.tools.nsc.typechecker.Typers$Typer.runTyper$1(Typers.scala:5563)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedInternal(Typers.scala:5593)
+	at scala.tools.nsc.typechecker.Typers$Typer.body$2(Typers.scala:5537)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5541)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedByValueExpr(Typers.scala:5624)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedStat$1(Typers.scala:3075)
+	at scala.tools.nsc.typechecker.Typers$Typer.$anonfun$typedStats$9(Typers.scala:3219)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedStats(Typers.scala:3219)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedPackageDef$1(Typers.scala:5176)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedMemberDef$1(Typers.scala:5479)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed1(Typers.scala:5526)
+	at scala.tools.nsc.typechecker.Typers$Typer.runTyper$1(Typers.scala:5563)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedInternal(Typers.scala:5593)
+	at scala.tools.nsc.typechecker.Typers$Typer.body$2(Typers.scala:5537)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5541)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5620)
+	at scala.tools.nsc.typechecker.Analyzer$typerFactory$$anon$3.apply(Analyzer.scala:102)
+	at scala.tools.nsc.Global$GlobalPhase.$anonfun$applyPhase$1(Global.scala:423)
+	at scala.tools.nsc.Global$GlobalPhase.applyPhase(Global.scala:416)
+	at scala.tools.nsc.interactive.Global$TyperRun.$anonfun$applyPhase$1(Global.scala:1326)
+	at scala.tools.nsc.interactive.Global$TyperRun.applyPhase(Global.scala:1326)
+	at scala.tools.nsc.interactive.Global$TyperRun.typeCheck(Global.scala:1319)
+	at scala.tools.nsc.interactive.Global.typeCheck(Global.scala:657)
+	at scala.tools.nsc.interactive.Global.$anonfun$backgroundCompile$7(Global.scala:572)
+	at scala.tools.nsc.interactive.Global.$anonfun$backgroundCompile$6(Global.scala:568)
+	at scala.tools.nsc.interactive.Global.$anonfun$backgroundCompile$6$adapted(Global.scala:568)
+	at scala.collection.TraversableLike$WithFilter.$anonfun$foreach$1(TraversableLike.scala:789)
+	at scala.collection.immutable.List.foreach(List.scala:389)
+	at scala.collection.TraversableLike$WithFilter.foreach(TraversableLike.scala:788)
+	at scala.tools.nsc.interactive.Global.backgroundCompile(Global.scala:568)
+	at scala.tools.nsc.interactive.PresentationCompilerThread.run(PresentationCompilerThread.scala:25)
+2017-10-01 16:38:53,744 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Unexptected error - most likely due to an illegal position
+java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+	at java.lang.String.substring(Unknown Source)
+	at scala.tools.refactoring.common.EnrichedTrees$TreeMethodsForPositions.nameString(EnrichedTrees.scala:355)
+	at scala.tools.refactoring.common.EnrichedTrees$TreeMethodsForPositions.namePosition(EnrichedTrees.scala:255)
+	at scala.tools.refactoring.implementations.MarkOccurrences.$anonfun$occurrencesOf$2(MarkOccurrences.scala:359)
+	at scala.collection.TraversableLike.$anonfun$flatMap$1(TraversableLike.scala:241)
+	at scala.collection.immutable.List.foreach(List.scala:389)
+	at scala.collection.TraversableLike.flatMap(TraversableLike.scala:241)
+	at scala.collection.TraversableLike.flatMap$(TraversableLike.scala:238)
+	at scala.collection.immutable.List.flatMap(List.scala:352)
+	at scala.tools.refactoring.implementations.MarkOccurrences.$anonfun$occurrencesOf$1(MarkOccurrences.scala:354)
+	at scala.tools.refactoring.common.SilentTracing.context(tracing.scala:102)
+	at scala.tools.refactoring.common.SilentTracing.context$(tracing.scala:102)
+	at org.scalaide.core.internal.decorators.markoccurrences.ScalaOccurrencesFinder$MarkOccurrencesIndex.context(ScalaOccurrencesFinder.scala:66)
+	at scala.tools.refactoring.implementations.MarkOccurrences.occurrencesOf(MarkOccurrences.scala:345)
+	at scala.tools.refactoring.implementations.MarkOccurrences.occurrencesOf$(MarkOccurrences.scala:345)
+	at org.scalaide.core.internal.decorators.markoccurrences.ScalaOccurrencesFinder$MarkOccurrencesIndex.occurrencesOf(ScalaOccurrencesFinder.scala:66)
+	at org.scalaide.core.internal.decorators.markoccurrences.ScalaOccurrencesFinder.$anonfun$findOccurrences$3(ScalaOccurrencesFinder.scala:51)
+	at scala.tools.nsc.util.InterruptReq.execute(InterruptReq.scala:26)
+	at scala.tools.nsc.interactive.Global.$anonfun$pollForWork$1(Global.scala:444)
+	at scala.tools.nsc.interactive.Global.pollForWork(Global.scala:418)
+	at scala.tools.nsc.interactive.PresentationCompilerThread.run(PresentationCompilerThread.scala:22)
+2017-10-01 16:38:59,518  WARN [Worker-161] - ScalaProject - Project AuctionHouse1 has platform default sourceLevel.
+2017-10-01 16:38:59,518  WARN [Worker-161] - ScalaProject - Project AuctionHouse1 runs on platform default installation.
+2017-10-01 16:39:05,824  WARN [Worker-150] - ScalaProject - Project AuctionHouse1 has platform default sourceLevel.
+2017-10-01 16:39:05,825  WARN [Worker-150] - ScalaProject - Project AuctionHouse1 runs on platform default installation.
+2017-10-01 16:39:15,604  WARN [Worker-138] - ScalaProject - Project AuctionHouse1 has platform default sourceLevel.
+2017-10-01 16:39:15,604  WARN [Worker-138] - ScalaProject - Project AuctionHouse1 runs on platform default installation.
+2017-10-01 16:40:08,864  WARN [Worker-156] - ScalaProject - Project AuctionHouse1 has platform default sourceLevel.
+2017-10-01 16:40:08,864  WARN [Worker-156] - ScalaProject - Project AuctionHouse1 runs on platform default installation.
+2017-10-01 16:41:04,394  WARN [Worker-96] - ScalaProject - Project AuctionHouse1 has platform default sourceLevel.
+2017-10-01 16:41:04,394  WARN [Worker-96] - ScalaProject - Project AuctionHouse1 runs on platform default installation.
+2017-10-01 16:41:07,787  WARN [Worker-144] - ScalaProject - Project AuctionHouse1 has platform default sourceLevel.
+2017-10-01 16:41:07,787  WARN [Worker-144] - ScalaProject - Project AuctionHouse1 runs on platform default installation.
+2017-10-01 16:43:48,879  WARN [Worker-155] - ScalaProject - Project AuctionHouse1 has platform default sourceLevel.
+2017-10-01 16:43:48,879  WARN [Worker-155] - ScalaProject - Project AuctionHouse1 runs on platform default installation.
+2017-10-01 16:44:58,470  WARN [Worker-169] - ScalaProject - Project AuctionHouse1 has platform default sourceLevel.
+2017-10-01 16:44:58,470  WARN [Worker-169] - ScalaProject - Project AuctionHouse1 runs on platform default installation.
+2017-10-01 16:48:20,608  WARN [Worker-174] - ScalaProject - Project AuctionHouse1 has platform default sourceLevel.
+2017-10-01 16:48:20,609  WARN [Worker-174] - ScalaProject - Project AuctionHouse1 runs on platform default installation.
+2017-10-01 16:50:28,374  WARN [Worker-108] - ScalaProject - Project AuctionHouse1 has platform default sourceLevel.
+2017-10-01 16:50:28,375  WARN [Worker-108] - ScalaProject - Project AuctionHouse1 runs on platform default installation.
+2017-10-01 16:51:06,508  WARN [Worker-153] - ScalaProject - Project AuctionHouse1 has platform default sourceLevel.
+2017-10-01 16:51:06,508  WARN [Worker-153] - ScalaProject - Project AuctionHouse1 runs on platform default installation.
+2017-10-01 16:51:12,620  WARN [Worker-138] - ScalaProject - Project AuctionHouse1 has platform default sourceLevel.
+2017-10-01 16:51:12,620  WARN [Worker-138] - ScalaProject - Project AuctionHouse1 runs on platform default installation.
+2017-10-01 16:51:15,604  WARN [Worker-157] - ScalaProject - Project AuctionHouse1 has platform default sourceLevel.
+2017-10-01 16:51:15,604  WARN [Worker-157] - ScalaProject - Project AuctionHouse1 runs on platform default installation.
+2017-10-01 16:51:26,536  WARN [Worker-168] - ScalaProject - Project AuctionHouse1 has platform default sourceLevel.
+2017-10-01 16:51:26,536  WARN [Worker-168] - ScalaProject - Project AuctionHouse1 runs on platform default installation.
+2017-10-01 16:54:57,546 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-10-01 16:54:57,547 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-10-01 16:55:04,498  WARN [Worker-161] - ScalaProject - Project AuctionHouse1 has platform default sourceLevel.
+2017-10-01 16:55:04,498  WARN [Worker-161] - ScalaProject - Project AuctionHouse1 runs on platform default installation.
+2017-10-01 16:57:34,970  WARN [Worker-138] - ScalaProject - Project AuctionHouse1 has platform default sourceLevel.
+2017-10-01 16:57:34,970  WARN [Worker-138] - ScalaProject - Project AuctionHouse1 runs on platform default installation.
+2017-10-01 16:58:07,208  WARN [Worker-176] - ScalaProject - Project AuctionHouse1 has platform default sourceLevel.
+2017-10-01 16:58:07,208  WARN [Worker-176] - ScalaProject - Project AuctionHouse1 runs on platform default installation.
+2017-10-01 17:05:32,420  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 321
+2017-10-01 17:05:32,923  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 321
+2017-10-01 17:05:33,424  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 321
+2017-10-01 17:06:03,999  WARN [Worker-101] - ScalaProject - Project AuctionHouse1 has platform default sourceLevel.
+2017-10-01 17:06:03,999  WARN [Worker-101] - ScalaProject - Project AuctionHouse1 runs on platform default installation.
+2017-10-01 17:08:44,511  WARN [Worker-177] - ScalaProject - Project AuctionHouse1 has platform default sourceLevel.
+2017-10-01 17:08:44,511  WARN [Worker-177] - ScalaProject - Project AuctionHouse1 runs on platform default installation.
+2017-10-01 17:08:45,851  WARN [scala-execution-context-global-627] - ScalaProject - Project O1Yleiset has platform default sourceLevel.
+2017-10-01 17:08:45,852  WARN [scala-execution-context-global-627] - ScalaProject - Project O1Yleiset runs on platform default installation.
+2017-10-01 17:11:08,129  WARN [Worker-174] - ScalaProject - Project AuctionHouse1 has platform default sourceLevel.
+2017-10-01 17:11:08,129  WARN [Worker-174] - ScalaProject - Project AuctionHouse1 runs on platform default installation.
+2017-10-01 17:16:01,553  WARN [Worker-184] - ScalaProject - Project AuctionHouse1 has platform default sourceLevel.
+2017-10-01 17:16:01,553  WARN [Worker-184] - ScalaProject - Project AuctionHouse1 runs on platform default installation.
+2017-10-01 17:23:07,835  WARN [Worker-198] - ScalaProject - Project AuctionHouse1 has platform default sourceLevel.
+2017-10-01 17:23:07,835  WARN [Worker-198] - ScalaProject - Project AuctionHouse1 runs on platform default installation.
+2017-10-01 17:26:31,395  WARN [Worker-194] - ScalaProject - Project AuctionHouse1 has platform default sourceLevel.
+2017-10-01 17:26:31,395  WARN [Worker-194] - ScalaProject - Project AuctionHouse1 runs on platform default installation.
+2017-10-01 17:27:21,593  WARN [Worker-203] - ScalaProject - Project AuctionHouse1 has platform default sourceLevel.
+2017-10-01 17:27:21,593  WARN [Worker-203] - ScalaProject - Project AuctionHouse1 runs on platform default installation.
+2017-10-01 17:36:58,212  WARN [main] - ScalaProject - Project KokeilujaKierros3 has platform default sourceLevel.
+2017-10-01 17:36:58,212  WARN [main] - ScalaProject - Project KokeilujaKierros3 runs on platform default installation.
+2017-10-01 17:39:44,526  WARN [main] - ScalaProject - Project KokeilujaKierros3 has platform default sourceLevel.
+2017-10-01 17:39:44,526  WARN [main] - ScalaProject - Project KokeilujaKierros3 runs on platform default installation.
+2017-10-01 17:39:44,741  WARN [Worker-150] - ScalaProject - Project KokeilujaKierros3 has platform default sourceLevel.
+2017-10-01 17:39:44,741  WARN [Worker-150] - ScalaProject - Project KokeilujaKierros3 runs on platform default installation.
+2017-10-01 17:39:44,743  WARN [Worker-150] - ScalaProject - Project KokeilujaKierros3 has platform default sourceLevel.
+2017-10-01 17:39:44,744  WARN [Worker-150] - ScalaProject - Project KokeilujaKierros3 runs on platform default installation.
+2017-10-01 17:46:04,536  WARN [Worker-225] - ScalaProject - Project KokeilujaKierros3 has platform default sourceLevel.
+2017-10-01 17:46:04,536  WARN [Worker-225] - ScalaProject - Project KokeilujaKierros3 runs on platform default installation.
+2017-10-01 19:49:14,632  WARN [main] - ScalaProject - Project KokeilujaKierros3 has platform default sourceLevel.
+2017-10-01 19:49:14,632  WARN [main] - ScalaProject - Project KokeilujaKierros3 runs on platform default installation.
+2017-10-01 19:49:14,826  WARN [Worker-381] - ScalaProject - Project KokeilujaKierros3 has platform default sourceLevel.
+2017-10-01 19:49:14,826  WARN [Worker-381] - ScalaProject - Project KokeilujaKierros3 runs on platform default installation.
+2017-10-01 20:03:16,020  WARN [Worker-375] - ScalaProject - Project KokeilujaKierros3 has platform default sourceLevel.
+2017-10-01 20:03:16,020  WARN [Worker-375] - ScalaProject - Project KokeilujaKierros3 runs on platform default installation.
+2017-10-01 20:04:38,294  WARN [Worker-368] - ScalaProject - Project KokeilujaKierros3 has platform default sourceLevel.
+2017-10-01 20:04:38,294  WARN [Worker-368] - ScalaProject - Project KokeilujaKierros3 runs on platform default installation.
+2017-10-01 20:09:17,282  WARN [Worker-401] - ScalaProject - Project KokeilujaKierros3 has platform default sourceLevel.
+2017-10-01 20:09:17,282  WARN [Worker-401] - ScalaProject - Project KokeilujaKierros3 runs on platform default installation.
+2017-10-01 20:10:27,277  WARN [Worker-392] - ScalaProject - Project KokeilujaKierros3 has platform default sourceLevel.
+2017-10-01 20:10:27,277  WARN [Worker-392] - ScalaProject - Project KokeilujaKierros3 runs on platform default installation.
+2017-10-01 20:16:27,600  WARN [Worker-403] - ScalaProject - Project KokeilujaKierros3 has platform default sourceLevel.
+2017-10-01 20:16:27,600  WARN [Worker-403] - ScalaProject - Project KokeilujaKierros3 runs on platform default installation.
+2017-10-01 20:17:43,055  WARN [Worker-326] - ScalaProject - Project KokeilujaKierros3 has platform default sourceLevel.
+2017-10-01 20:17:43,055  WARN [Worker-326] - ScalaProject - Project KokeilujaKierros3 runs on platform default installation.
+2017-10-01 20:17:55,562  WARN [Worker-376] - ScalaProject - Project KokeilujaKierros3 has platform default sourceLevel.
+2017-10-01 20:17:55,563  WARN [Worker-376] - ScalaProject - Project KokeilujaKierros3 runs on platform default installation.
+2017-10-01 20:32:26,863  WARN [Worker-384] - ScalaProject - Project KokeilujaKierros3 has platform default sourceLevel.
+2017-10-01 20:32:26,863  WARN [Worker-384] - ScalaProject - Project KokeilujaKierros3 runs on platform default installation.
+2017-10-01 20:33:05,624  WARN [Worker-409] - ScalaProject - Project KokeilujaKierros3 has platform default sourceLevel.
+2017-10-01 20:33:05,624  WARN [Worker-409] - ScalaProject - Project KokeilujaKierros3 runs on platform default installation.
+2017-10-01 20:34:02,914  WARN [Worker-413] - ScalaProject - Project KokeilujaKierros3 has platform default sourceLevel.
+2017-10-01 20:34:02,914  WARN [Worker-413] - ScalaProject - Project KokeilujaKierros3 runs on platform default installation.
+2017-10-01 20:45:32,080  WARN [Worker-430] - ScalaProject - Project KokeilujaKierros3 has platform default sourceLevel.
+2017-10-01 20:45:32,080  WARN [Worker-430] - ScalaProject - Project KokeilujaKierros3 runs on platform default installation.
+2017-10-01 20:47:22,477  WARN [Worker-430] - ScalaProject - Project KokeilujaKierros3 has platform default sourceLevel.
+2017-10-01 20:47:22,478  WARN [Worker-430] - ScalaProject - Project KokeilujaKierros3 runs on platform default installation.
+2017-10-01 20:47:56,831  WARN [Worker-411] - ScalaProject - Project KokeilujaKierros3 has platform default sourceLevel.
+2017-10-01 20:47:56,831  WARN [Worker-411] - ScalaProject - Project KokeilujaKierros3 runs on platform default installation.
+2017-10-01 20:56:17,169  WARN [Worker-354] - ScalaProject - Project KokeilujaKierros3 has platform default sourceLevel.
+2017-10-01 20:56:17,170  WARN [Worker-354] - ScalaProject - Project KokeilujaKierros3 runs on platform default installation.
+2017-10-01 21:06:48,193  WARN [Worker-411] - ScalaProject - Project KokeilujaKierros3 has platform default sourceLevel.
+2017-10-01 21:06:48,193  WARN [Worker-411] - ScalaProject - Project KokeilujaKierros3 runs on platform default installation.
+2017-10-01 21:07:49,757  WARN [Worker-354] - ScalaProject - Project KokeilujaKierros3 has platform default sourceLevel.
+2017-10-01 21:07:49,757  WARN [Worker-354] - ScalaProject - Project KokeilujaKierros3 runs on platform default installation.
+2017-10-01 21:07:59,926  WARN [Worker-442] - ScalaProject - Project KokeilujaKierros3 has platform default sourceLevel.
+2017-10-01 21:07:59,926  WARN [Worker-442] - ScalaProject - Project KokeilujaKierros3 runs on platform default installation.
+2017-10-01 21:08:16,711  WARN [Worker-431] - ScalaProject - Project KokeilujaKierros3 has platform default sourceLevel.
+2017-10-01 21:08:16,711  WARN [Worker-431] - ScalaProject - Project KokeilujaKierros3 runs on platform default installation.
+2017-10-01 21:08:27,723  WARN [Worker-444] - ScalaProject - Project KokeilujaKierros3 has platform default sourceLevel.
+2017-10-01 21:08:27,723  WARN [Worker-444] - ScalaProject - Project KokeilujaKierros3 runs on platform default installation.
+2017-10-01 21:15:54,848  WARN [Worker-437] - ScalaProject - Project KokeilujaKierros3 has platform default sourceLevel.
+2017-10-01 21:15:54,848  WARN [Worker-437] - ScalaProject - Project KokeilujaKierros3 runs on platform default installation.
+2017-10-01 21:17:38,568  WARN [Worker-430] - ScalaProject - Project KokeilujaKierros3 has platform default sourceLevel.
+2017-10-01 21:17:38,569  WARN [Worker-430] - ScalaProject - Project KokeilujaKierros3 runs on platform default installation.
+2017-10-01 21:17:48,730  WARN [Worker-451] - ScalaProject - Project KokeilujaKierros3 has platform default sourceLevel.
+2017-10-01 21:17:48,730  WARN [Worker-451] - ScalaProject - Project KokeilujaKierros3 runs on platform default installation.
+2017-10-01 21:18:11,448  WARN [scala-execution-context-global-1112] - ScalaProject - Project AuctionHouse1 has platform default sourceLevel.
+2017-10-01 21:18:11,448  WARN [scala-execution-context-global-1112] - ScalaProject - Project AuctionHouse1 runs on platform default installation.
+2017-10-01 21:18:11,570  WARN [Worker-454] - ScalaProject - Project KokeilujaKierros3 has platform default sourceLevel.
+2017-10-01 21:18:11,570  WARN [Worker-454] - ScalaProject - Project KokeilujaKierros3 runs on platform default installation.
+2017-10-01 21:18:30,838  WARN [Worker-437] - ScalaProject - Project KokeilujaKierros3 has platform default sourceLevel.
+2017-10-01 21:18:30,839  WARN [Worker-437] - ScalaProject - Project KokeilujaKierros3 runs on platform default installation.
+2017-10-01 21:22:26,346  WARN [Worker-437] - ScalaProject - Project KokeilujaKierros3 has platform default sourceLevel.
+2017-10-01 21:22:26,346  WARN [Worker-437] - ScalaProject - Project KokeilujaKierros3 runs on platform default installation.
+2017-10-01 21:23:51,182  WARN [Worker-438] - ScalaProject - Project KokeilujaKierros3 has platform default sourceLevel.
+2017-10-01 21:23:51,182  WARN [Worker-438] - ScalaProject - Project KokeilujaKierros3 runs on platform default installation.
+2017-10-01 21:24:51,746  WARN [Worker-438] - ScalaProject - Project KokeilujaKierros3 has platform default sourceLevel.
+2017-10-01 21:24:51,747  WARN [Worker-438] - ScalaProject - Project KokeilujaKierros3 runs on platform default installation.
+2017-10-01 21:25:04,687  WARN [Worker-438] - ScalaProject - Project KokeilujaKierros3 has platform default sourceLevel.
+2017-10-01 21:25:04,687  WARN [Worker-438] - ScalaProject - Project KokeilujaKierros3 runs on platform default installation.
+2017-10-01 21:57:08,620  WARN [Worker-458] - ScalaProject - Project KokeilujaKierros3 has platform default sourceLevel.
+2017-10-01 21:57:08,620  WARN [Worker-458] - ScalaProject - Project KokeilujaKierros3 runs on platform default installation.
+2017-10-01 22:07:25,310  WARN [Worker-449] - ScalaProject - Project KokeilujaKierros3 has platform default sourceLevel.
+2017-10-01 22:07:25,310  WARN [Worker-449] - ScalaProject - Project KokeilujaKierros3 runs on platform default installation.
+2017-10-01 22:08:09,840  WARN [Worker-449] - ScalaProject - Project KokeilujaKierros3 has platform default sourceLevel.
+2017-10-01 22:08:09,840  WARN [Worker-449] - ScalaProject - Project KokeilujaKierros3 runs on platform default installation.
+2017-10-01 22:08:29,294  WARN [Worker-473] - ScalaProject - Project KokeilujaKierros3 has platform default sourceLevel.
+2017-10-01 22:08:29,294  WARN [Worker-473] - ScalaProject - Project KokeilujaKierros3 runs on platform default installation.
+2017-10-01 22:10:02,651  WARN [Worker-449] - ScalaProject - Project KokeilujaKierros3 has platform default sourceLevel.
+2017-10-01 22:10:02,651  WARN [Worker-449] - ScalaProject - Project KokeilujaKierros3 runs on platform default installation.
+2017-10-01 22:10:14,993  WARN [Worker-480] - ScalaProject - Project KokeilujaKierros3 has platform default sourceLevel.
+2017-10-01 22:10:14,993  WARN [Worker-480] - ScalaProject - Project KokeilujaKierros3 runs on platform default installation.
+2017-10-01 22:10:26,723  WARN [Worker-492] - ScalaProject - Project KokeilujaKierros3 has platform default sourceLevel.
+2017-10-01 22:10:26,723  WARN [Worker-492] - ScalaProject - Project KokeilujaKierros3 runs on platform default installation.
+2017-10-01 22:11:11,766  WARN [Worker-497] - ScalaProject - Project KokeilujaKierros3 has platform default sourceLevel.
+2017-10-01 22:11:11,766  WARN [Worker-497] - ScalaProject - Project KokeilujaKierros3 runs on platform default installation.
+2017-10-01 22:11:26,248  WARN [Worker-464] - ScalaProject - Project KokeilujaKierros3 has platform default sourceLevel.
+2017-10-01 22:11:26,248  WARN [Worker-464] - ScalaProject - Project KokeilujaKierros3 runs on platform default installation.
+2017-10-01 22:11:50,992  WARN [Worker-486] - ScalaProject - Project KokeilujaKierros3 has platform default sourceLevel.
+2017-10-01 22:11:50,992  WARN [Worker-486] - ScalaProject - Project KokeilujaKierros3 runs on platform default installation.
+2017-10-01 22:12:11,874  WARN [Worker-486] - ScalaProject - Project KokeilujaKierros3 has platform default sourceLevel.
+2017-10-01 22:12:11,874  WARN [Worker-486] - ScalaProject - Project KokeilujaKierros3 runs on platform default installation.
+2017-10-01 22:12:26,447  WARN [Worker-475] - ScalaProject - Project KokeilujaKierros3 has platform default sourceLevel.
+2017-10-01 22:12:26,447  WARN [Worker-475] - ScalaProject - Project KokeilujaKierros3 runs on platform default installation.
+2017-10-01 22:13:16,344  WARN [Worker-497] - ScalaProject - Project KokeilujaKierros3 has platform default sourceLevel.
+2017-10-01 22:13:16,345  WARN [Worker-497] - ScalaProject - Project KokeilujaKierros3 runs on platform default installation.
+2017-10-01 22:13:33,991  WARN [Worker-453] - ScalaProject - Project KokeilujaKierros3 has platform default sourceLevel.
+2017-10-01 22:13:33,991  WARN [Worker-453] - ScalaProject - Project KokeilujaKierros3 runs on platform default installation.
+2017-10-01 22:15:56,139  WARN [Worker-453] - ScalaProject - Project KokeilujaKierros3 has platform default sourceLevel.
+2017-10-01 22:15:56,139  WARN [Worker-453] - ScalaProject - Project KokeilujaKierros3 runs on platform default installation.
+2017-10-01 22:16:07,694  WARN [Worker-498] - ScalaProject - Project KokeilujaKierros3 has platform default sourceLevel.
+2017-10-01 22:16:07,694  WARN [Worker-498] - ScalaProject - Project KokeilujaKierros3 runs on platform default installation.
+2017-10-01 22:16:54,709  WARN [Worker-487] - ScalaProject - Project KokeilujaKierros3 has platform default sourceLevel.
+2017-10-01 22:16:54,709  WARN [Worker-487] - ScalaProject - Project KokeilujaKierros3 runs on platform default installation.
+2017-10-01 22:19:22,157  WARN [Worker-489] - ScalaProject - Project KokeilujaKierros3 has platform default sourceLevel.
+2017-10-01 22:19:22,157  WARN [Worker-489] - ScalaProject - Project KokeilujaKierros3 runs on platform default installation.
+2017-10-01 22:19:48,778  WARN [Worker-480] - ScalaProject - Project KokeilujaKierros3 has platform default sourceLevel.
+2017-10-01 22:19:48,778  WARN [Worker-480] - ScalaProject - Project KokeilujaKierros3 runs on platform default installation.
+2017-10-01 22:21:52,105  WARN [Worker-480] - ScalaProject - Project KokeilujaKierros3 has platform default sourceLevel.
+2017-10-01 22:21:52,105  WARN [Worker-480] - ScalaProject - Project KokeilujaKierros3 runs on platform default installation.
+2017-10-01 22:22:25,640  WARN [Worker-453] - ScalaProject - Project KokeilujaKierros3 has platform default sourceLevel.
+2017-10-01 22:22:25,641  WARN [Worker-453] - ScalaProject - Project KokeilujaKierros3 runs on platform default installation.
+2017-10-01 22:22:29,051  WARN [Worker-479] - ScalaProject - Project KokeilujaKierros3 has platform default sourceLevel.
+2017-10-01 22:22:29,051  WARN [Worker-479] - ScalaProject - Project KokeilujaKierros3 runs on platform default installation.
+2017-10-01 22:22:59,990  WARN [Worker-453] - ScalaProject - Project KokeilujaKierros3 has platform default sourceLevel.
+2017-10-01 22:22:59,990  WARN [Worker-453] - ScalaProject - Project KokeilujaKierros3 runs on platform default installation.
+2017-10-01 22:25:14,534  WARN [Worker-486] - ScalaProject - Project KokeilujaKierros3 has platform default sourceLevel.
+2017-10-01 22:25:14,534  WARN [Worker-486] - ScalaProject - Project KokeilujaKierros3 runs on platform default installation.
+2017-10-01 22:25:27,874  WARN [Worker-499] - ScalaProject - Project KokeilujaKierros3 has platform default sourceLevel.
+2017-10-01 22:25:27,875  WARN [Worker-499] - ScalaProject - Project KokeilujaKierros3 runs on platform default installation.
+2017-10-01 22:25:54,295  WARN [Worker-475] - ScalaProject - Project KokeilujaKierros3 has platform default sourceLevel.
+2017-10-01 22:25:54,296  WARN [Worker-475] - ScalaProject - Project KokeilujaKierros3 runs on platform default installation.
+2017-10-01 22:28:02,825  WARN [Worker-492] - ScalaProject - Project KokeilujaKierros3 has platform default sourceLevel.
+2017-10-01 22:28:02,826  WARN [Worker-492] - ScalaProject - Project KokeilujaKierros3 runs on platform default installation.
+2017-10-01 22:28:18,748  WARN [Worker-475] - ScalaProject - Project KokeilujaKierros3 has platform default sourceLevel.
+2017-10-01 22:28:18,748  WARN [Worker-475] - ScalaProject - Project KokeilujaKierros3 runs on platform default installation.
+2017-10-01 22:28:27,859  WARN [Worker-411] - ScalaProject - Project KokeilujaKierros3 has platform default sourceLevel.
+2017-10-01 22:28:27,859  WARN [Worker-411] - ScalaProject - Project KokeilujaKierros3 runs on platform default installation.
+2017-10-01 22:28:51,672  WARN [Worker-411] - ScalaProject - Project KokeilujaKierros3 has platform default sourceLevel.
+2017-10-01 22:28:51,673  WARN [Worker-411] - ScalaProject - Project KokeilujaKierros3 runs on platform default installation.
+2017-10-01 22:30:59,676  WARN [Worker-499] - ScalaProject - Project KokeilujaKierros3 has platform default sourceLevel.
+2017-10-01 22:30:59,677  WARN [Worker-499] - ScalaProject - Project KokeilujaKierros3 runs on platform default installation.
+2017-10-01 22:32:00,648  WARN [Worker-458] - ScalaProject - Project KokeilujaKierros3 has platform default sourceLevel.
+2017-10-01 22:32:00,648  WARN [Worker-458] - ScalaProject - Project KokeilujaKierros3 runs on platform default installation.
+2017-10-01 22:40:26,204  WARN [Worker-421] - ScalaProject - Project KokeilujaKierros3 has platform default sourceLevel.
+2017-10-01 22:40:26,204  WARN [Worker-421] - ScalaProject - Project KokeilujaKierros3 runs on platform default installation.
+2017-10-01 22:45:20,079  WARN [Worker-465] - ScalaProject - Project KokeilujaKierros3 has platform default sourceLevel.
+2017-10-01 22:45:20,079  WARN [Worker-465] - ScalaProject - Project KokeilujaKierros3 runs on platform default installation.
+2017-10-01 22:47:02,420  WARN [Worker-497] - ScalaProject - Project KokeilujaKierros3 has platform default sourceLevel.
+2017-10-01 22:47:02,420  WARN [Worker-497] - ScalaProject - Project KokeilujaKierros3 runs on platform default installation.
+2017-10-01 22:49:51,223  WARN [Worker-503] - ScalaProject - Project KokeilujaKierros3 has platform default sourceLevel.
+2017-10-01 22:49:51,223  WARN [Worker-503] - ScalaProject - Project KokeilujaKierros3 runs on platform default installation.
+2017-10-01 22:51:10,159  WARN [Worker-498] - ScalaProject - Project KokeilujaKierros3 has platform default sourceLevel.
+2017-10-01 22:51:10,160  WARN [Worker-498] - ScalaProject - Project KokeilujaKierros3 runs on platform default installation.
+2017-10-01 22:54:50,893  WARN [Worker-506] - ScalaProject - Project KokeilujaKierros3 has platform default sourceLevel.
+2017-10-01 22:54:50,893  WARN [Worker-506] - ScalaProject - Project KokeilujaKierros3 runs on platform default installation.
+2017-10-01 22:55:07,368  WARN [Worker-496] - ScalaProject - Project KokeilujaKierros3 has platform default sourceLevel.
+2017-10-01 22:55:07,369  WARN [Worker-496] - ScalaProject - Project KokeilujaKierros3 runs on platform default installation.
+2017-10-01 22:55:11,134  WARN [Worker-501] - ScalaProject - Project KokeilujaKierros3 has platform default sourceLevel.
+2017-10-01 22:55:11,134  WARN [Worker-501] - ScalaProject - Project KokeilujaKierros3 runs on platform default installation.
+2017-10-01 22:55:38,935  WARN [Worker-502] - ScalaProject - Project KokeilujaKierros3 has platform default sourceLevel.
+2017-10-01 22:55:38,935  WARN [Worker-502] - ScalaProject - Project KokeilujaKierros3 runs on platform default installation.
+2017-10-01 22:55:46,386  WARN [Worker-508] - ScalaProject - Project KokeilujaKierros3 has platform default sourceLevel.
+2017-10-01 22:55:46,386  WARN [Worker-508] - ScalaProject - Project KokeilujaKierros3 runs on platform default installation.
+2017-10-01 22:59:05,959  WARN [Worker-458] - ScalaProject - Project KokeilujaKierros3 has platform default sourceLevel.
+2017-10-01 22:59:05,960  WARN [Worker-458] - ScalaProject - Project KokeilujaKierros3 runs on platform default installation.
+2017-10-01 22:59:12,867  WARN [Worker-453] - ScalaProject - Project KokeilujaKierros3 has platform default sourceLevel.
+2017-10-01 22:59:12,867  WARN [Worker-453] - ScalaProject - Project KokeilujaKierros3 runs on platform default installation.
+2017-10-01 22:59:18,699  WARN [Worker-448] - ScalaProject - Project KokeilujaKierros3 has platform default sourceLevel.
+2017-10-01 22:59:18,699  WARN [Worker-448] - ScalaProject - Project KokeilujaKierros3 runs on platform default installation.
+2017-10-01 22:59:52,029  WARN [Worker-499] - ScalaProject - Project KokeilujaKierros3 has platform default sourceLevel.
+2017-10-01 22:59:52,029  WARN [Worker-499] - ScalaProject - Project KokeilujaKierros3 runs on platform default installation.
+2017-10-01 23:00:36,926  WARN [Worker-496] - ScalaProject - Project KokeilujaKierros3 has platform default sourceLevel.
+2017-10-01 23:00:36,927  WARN [Worker-496] - ScalaProject - Project KokeilujaKierros3 runs on platform default installation.
+2017-10-01 23:17:54,910  WARN [Worker-510] - ScalaProject - Project KokeilujaKierros3 has platform default sourceLevel.
+2017-10-01 23:17:54,910  WARN [Worker-510] - ScalaProject - Project KokeilujaKierros3 runs on platform default installation.
+2017-10-01 23:18:43,419  WARN [Worker-509] - ScalaProject - Project KokeilujaKierros3 has platform default sourceLevel.
+2017-10-01 23:18:43,419  WARN [Worker-509] - ScalaProject - Project KokeilujaKierros3 runs on platform default installation.
+2017-10-01 23:18:55,355  WARN [Worker-480] - ScalaProject - Project KokeilujaKierros3 has platform default sourceLevel.
+2017-10-01 23:18:55,355  WARN [Worker-480] - ScalaProject - Project KokeilujaKierros3 runs on platform default installation.
+2017-10-01 23:19:08,024  WARN [Worker-479] - ScalaProject - Project KokeilujaKierros3 has platform default sourceLevel.
+2017-10-01 23:19:08,025  WARN [Worker-479] - ScalaProject - Project KokeilujaKierros3 runs on platform default installation.
+2017-10-01 23:27:48,359  WARN [Worker-507] - ScalaProject - Project KokeilujaKierros3 has platform default sourceLevel.
+2017-10-01 23:27:48,360  WARN [Worker-507] - ScalaProject - Project KokeilujaKierros3 runs on platform default installation.
+2017-10-01 23:28:23,765  WARN [Worker-501] - ScalaProject - Project KokeilujaKierros3 has platform default sourceLevel.
+2017-10-01 23:28:23,765  WARN [Worker-501] - ScalaProject - Project KokeilujaKierros3 runs on platform default installation.
+2017-10-01 23:28:36,767  WARN [Worker-479] - ScalaProject - Project KokeilujaKierros3 has platform default sourceLevel.
+2017-10-01 23:28:36,768  WARN [Worker-479] - ScalaProject - Project KokeilujaKierros3 runs on platform default installation.
+2017-10-01 23:28:41,112  WARN [Worker-509] - ScalaProject - Project KokeilujaKierros3 has platform default sourceLevel.
+2017-10-01 23:28:41,112  WARN [Worker-509] - ScalaProject - Project KokeilujaKierros3 runs on platform default installation.
+2017-10-01 23:28:44,104  WARN [Worker-499] - ScalaProject - Project KokeilujaKierros3 has platform default sourceLevel.
+2017-10-01 23:28:44,104  WARN [Worker-499] - ScalaProject - Project KokeilujaKierros3 runs on platform default installation.
+2017-10-01 23:30:36,781  WARN [Worker-503] - ScalaProject - Project KokeilujaKierros3 has platform default sourceLevel.
+2017-10-01 23:30:36,781  WARN [Worker-503] - ScalaProject - Project KokeilujaKierros3 runs on platform default installation.
+2017-10-01 23:30:55,291  WARN [Worker-465] - ScalaProject - Project KokeilujaKierros3 has platform default sourceLevel.
+2017-10-01 23:30:55,291  WARN [Worker-465] - ScalaProject - Project KokeilujaKierros3 runs on platform default installation.
+2017-10-01 23:34:55,327  WARN [Worker-517] - ScalaProject - Project KokeilujaKierros3 has platform default sourceLevel.
+2017-10-01 23:34:55,327  WARN [Worker-517] - ScalaProject - Project KokeilujaKierros3 runs on platform default installation.
+2017-10-01 23:35:18,909  WARN [Worker-517] - ScalaProject - Project KokeilujaKierros3 has platform default sourceLevel.
+2017-10-01 23:35:18,909  WARN [Worker-517] - ScalaProject - Project KokeilujaKierros3 runs on platform default installation.
+2017-10-01 23:35:53,407  WARN [Worker-517] - ScalaProject - Project KokeilujaKierros3 has platform default sourceLevel.
+2017-10-01 23:35:53,408  WARN [Worker-517] - ScalaProject - Project KokeilujaKierros3 runs on platform default installation.
+2017-10-01 23:37:41,423  WARN [Worker-470] - ScalaProject - Project KokeilujaKierros3 has platform default sourceLevel.
+2017-10-01 23:37:41,423  WARN [Worker-470] - ScalaProject - Project KokeilujaKierros3 runs on platform default installation.
+2017-10-01 23:37:58,047  WARN [Worker-516] - ScalaProject - Project KokeilujaKierros3 has platform default sourceLevel.
+2017-10-01 23:37:58,047  WARN [Worker-516] - ScalaProject - Project KokeilujaKierros3 runs on platform default installation.
+2017-10-01 23:38:56,683 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-10-01 23:38:56,683 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-10-01 23:38:56,683 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-10-01 23:39:30,692  WARN [Worker-465] - ScalaProject - Project KokeilujaKierros3 has platform default sourceLevel.
+2017-10-01 23:39:30,692  WARN [Worker-465] - ScalaProject - Project KokeilujaKierros3 runs on platform default installation.
+2017-10-01 23:39:54,017  WARN [Worker-513] - ScalaProject - Project KokeilujaKierros3 has platform default sourceLevel.
+2017-10-01 23:39:54,017  WARN [Worker-513] - ScalaProject - Project KokeilujaKierros3 runs on platform default installation.
+2017-10-01 23:40:15,893  WARN [Worker-520] - ScalaProject - Project KokeilujaKierros3 has platform default sourceLevel.
+2017-10-01 23:40:15,893  WARN [Worker-520] - ScalaProject - Project KokeilujaKierros3 runs on platform default installation.
+2017-10-01 23:41:04,015  WARN [main] - ScalaProject - Project KokeilujaKierros3 has platform default sourceLevel.
+2017-10-01 23:41:04,016  WARN [main] - ScalaProject - Project KokeilujaKierros3 runs on platform default installation.
+2017-10-01 23:41:04,021  WARN [main] - ScalaProject - Project KokeilujaKierros3 has platform default sourceLevel.
+2017-10-01 23:41:04,021  WARN [main] - ScalaProject - Project KokeilujaKierros3 runs on platform default installation.
+2017-10-01 23:41:06,213  WARN [main] - ScalaProject - Project AuctionHouse1 has platform default sourceLevel.
+2017-10-01 23:41:06,213  WARN [main] - ScalaProject - Project AuctionHouse1 runs on platform default installation.
+2017-10-01 23:41:06,215  WARN [main] - ScalaProject - Project Ave has platform default sourceLevel.
+2017-10-01 23:41:06,215  WARN [main] - ScalaProject - Project Ave runs on platform default installation.
+2017-10-01 23:41:06,234  WARN [main] - ScalaProject - Project Football1 has platform default sourceLevel.
+2017-10-01 23:41:06,234  WARN [main] - ScalaProject - Project Football1 runs on platform default installation.
+2017-10-01 23:41:06,239  WARN [main] - ScalaProject - Project GoodStuff has platform default sourceLevel.
+2017-10-01 23:41:06,239  WARN [main] - ScalaProject - Project GoodStuff runs on platform default installation.
+2017-10-01 23:41:06,240  WARN [main] - ScalaProject - Project KokeilujaKierros1 has platform default sourceLevel.
+2017-10-01 23:41:06,241  WARN [main] - ScalaProject - Project KokeilujaKierros1 runs on platform default installation.
+2017-10-01 23:41:06,242  WARN [main] - ScalaProject - Project KokeilujaKierros2 has platform default sourceLevel.
+2017-10-01 23:41:06,242  WARN [main] - ScalaProject - Project KokeilujaKierros2 runs on platform default installation.
+2017-10-01 23:41:07,217  WARN [Worker-2] - ScalaProject - Project Odds has platform default sourceLevel.
+2017-10-01 23:41:07,218  WARN [Worker-2] - ScalaProject - Project Odds runs on platform default installation.
+2017-10-01 23:41:07,219  WARN [Worker-2] - ScalaProject - Project O1Yleiset has platform default sourceLevel.
+2017-10-01 23:41:07,219  WARN [Worker-2] - ScalaProject - Project O1Yleiset runs on platform default installation.

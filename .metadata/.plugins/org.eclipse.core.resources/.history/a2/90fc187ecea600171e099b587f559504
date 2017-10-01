@@ -1,0 +1,21 @@
+package o1.time
+
+class Interval(private val start: Moment, private val end: Moment) {
+   
+  def length:Int = start.distance(end)
+  
+  def isLaterThan(moment: Moment) = this.start.toString.toInt > moment.toString.toInt
+  
+  override def toString = {
+    var result = ""
+    if (this.length == 0) {
+      result = this.start.toString
+    } else {
+      val divider = if (this.length > 50) "..." else  "-"*this.length
+      result = start.toString+divider+end.toString
+    }
+    result
+  }
+  
+  
+}

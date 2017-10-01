@@ -1,0 +1,51 @@
+package o1.time
+
+object TimeTest extends App {
+  
+  val m1 = new Moment(2000)
+  val m2 = new Moment(2013)
+  
+  println("m1: "+m1)
+  println("m2: "+m2)
+  
+  println("m1 distance to m2: "+ m1.distance(m2))
+  println("m2 distance to m1: "+ m2.distance(m1))
+  
+  println("m1 islaterthan m2: "+ m1.isLaterThan(m2))
+  println("m2 islaterthan m1: "+ m2.isLaterThan(m1))
+  
+  println("m1 later than m2: "+ m1.later(m2))
+  println("m1 earlier than m2: "+ m1.earlier(m2))
+  
+  val i1 = new Interval(m1, m2)
+  val i2 = new Interval(new Moment(2001), new Moment(2001))
+  val i3 = new Interval(new Moment(2002), new Moment(2061))
+  
+  println("i1 tostring: "+i1)
+  println("i2 tostring: "+i2)
+  println("i3 tostring: "+i3)
+  
+  println("Interval 2001-2001 is later than 1990: "+i2.isLaterThan(new Moment(1990)))
+  println("Interval 2001-2001 is later than 2009: "+i2.isLaterThan(new Moment(2009)))
+  
+  println("2001-2001 is later than 2002-2061: "+i2.isLaterThan(i3))
+  println("2002-2061 is later than 2001-2001: "+i3.isLaterThan(i2))
+  
+  println("Interval containts Moment")
+  println("2000 is between 1990 and 2010:"+ new Interval(new Moment(1990), new Moment(2010)).contains(new Moment(2000)))
+  println("2000 is not between 2000 and 2010:"+ new Interval(new Moment(2000), new Moment(2010)).contains(new Moment(2000)))
+  
+  println("Interval contains Interval")
+  println("2002-2061 contains 2004-2006: "+i3.contains(new Interval(new Moment(2004), new Moment(2006))))
+  println("2002-2061 does not contain 1996-2006: "+i3.contains(new Interval(new Moment(1996), new Moment(2006))))
+  
+  println("Moment isIn Interval")
+  println("2004 is in 2002-2061: "+new Moment(2004).isIn(i3))
+  println("2002 is in 2002-2061: "+new Moment(2002).isIn(i3))
+  println("1999 is not in 2002-2061: "+new Moment(1999).isIn(i3))
+  
+  println("Interval overlaps Interval")
+  println("2000-2004 overlaps 1999-2002:"+new Interval(new Moment(2000), new Moment(2004)).overlaps(new Interval(new Moment(1999), new Moment(2002))))
+  
+  
+}
