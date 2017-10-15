@@ -7,39 +7,69 @@ class EnglishAuction(val description: String, val startingPrice: Int, duration: 
   // Keep these variables; they will be useful for implementing the methods.
   private var highestBid = new Bid(None, startingPrice)       // most-wanted holder
   private var secondHighestBid = new Bid(None, startingPrice) // most-wanted holder
-  private var remainingDays = ??? // TODO: replace ??? with a suitable expression 
+  private var remainingDays = this.duration 
   
 
   // However, the method implementations given below leave a lot to be desired. 
 
-  
-  def daysLeft: Int = ??? // TODO: replace with a working method implementation
-  
+  def daysLeft: Int = this.remainingDays
   
   def advanceOneDay() = {
-    // TODO: implement this method
+    if (this.daysLeft > 0) {
+      this.remainingDays -= 1;
+    } 
   }
 
   
-  def isOpen: Boolean = ??? // TODO: replace with a working method implementation 
+  def isOpen: Boolean = {
+    this.daysLeft > 0 
+  }
 
   
-  def isExpired: Boolean = ??? // TODO: replace with a working method implementation 
+  def isExpired: Boolean = {
+    ((this.daysLeft == 0) && (highestBid.isInitialBid)) 
+  }
 
   
-  def buyer: Option[String] = ??? // TODO: replace with a working method implementation 
+  def buyer: Option[String] = {
+    if (this.highestBid.isInitialBid) None
+    else this.highestBid.bidder
+  }
 
   
-  def price: Int = ??? // TODO: replace with a working method implementation
+  def price: Int = {    
+    if ((!this.highestBid.isInitialBid) && (this.secondHighestBid.isInitialBid)) {
+      this.startingPrice
+    } else if (this.highestBid.isInitialBid) {
+      this.startingPrice
+    } else if (!this.highestBid.isInitialBid) {
+      this.highestBid.limit
+    } else {
+      this.secondHighestBid.limit+100
+    }
+  }
   
   
-  def requiredBid: Int = ??? // TODO: replace with a working method implementation
+  def requiredBid: Int = {
+    if (this.highestBid.isInitialBid) this.startingPrice
+    else this.price+100
+  }
   
-  
+
+ 
   def bid(bidder: String, amount: Int): Boolean = {
-    ??? // TODO: replace with a working method implementation
+    
+    if (amount > this.requiredBid) {
+      println(amount+" > "+this.requiredBid)
+      this.highestBid = new Bid(Some(bidder), amount)
+      true
+    } else if (amount > this.secondHighestBid.limit) {
+      this.secondHighestBid = new Bid(Some(bidder), amount)
+      false
+    } else {
+      false
+    }
   }
-  
   
   override def toString = this.description
   

@@ -1,0 +1,9 @@
+package o1.auctionhouse
+
+class DutchAuctionTest extends App {
+
+  val da1 = new DutchAuction("kuvaus", 100, 1, 50)
+  da1.advanceOneDay()
+  println("buyer:"+da1.buyer)
+  
+}

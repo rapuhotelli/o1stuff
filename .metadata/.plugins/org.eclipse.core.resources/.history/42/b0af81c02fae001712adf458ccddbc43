@@ -1,0 +1,5 @@
+package o1.auctionhouse
+
+object EnglishAuctionTest extends App {
+  
+}

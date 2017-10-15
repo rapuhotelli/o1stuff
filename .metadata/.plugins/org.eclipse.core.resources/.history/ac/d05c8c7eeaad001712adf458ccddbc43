@@ -1,0 +1,20 @@
+package o1.auctionhouse
+
+object DutchAuctionTest extends App {
+
+  val da1 = new DutchAuction("kuvaus", 100, 1, 95)
+  println("day0")
+  println("price:"+da1.price)
+  da1.advanceOneDay()
+  println("day1")
+  println("buyer:"+da1.buyer)
+  println("isOpen:"+da1.isOpen)
+  println("price:"+da1.price)
+  println("isExpired:"+da1.isExpired)
+  da1.advanceOneDay()
+  println("day2")
+  println("buyer:"+da1.buyer)
+  println("isOpen:"+da1.isOpen)
+  println("price:"+da1.price)
+  println("isExpired:"+da1.isExpired)
+}

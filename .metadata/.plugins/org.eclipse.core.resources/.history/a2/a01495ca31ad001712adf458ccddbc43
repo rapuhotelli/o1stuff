@@ -1,0 +1,32 @@
+package o1.football2
+
+import scala.collection.mutable.Buffer
+
+class Season {
+  
+  private val matches = Buffer[Match]()
+  
+  private var biggestDifferenceMatchId: Int = 0
+  
+  def addResult(newResult: Match) = {
+    matches += newResult
+    if (newResult.goalDifference > matches(biggestDifferenceMatchId).goalDifference) {
+      biggestDifferenceMatchId = matches.size-1
+    }
+  }
+  
+  def biggestWin: Option[Match] = {
+    
+  }
+  
+  def latestMatch: Option[Match] = {
+    
+  }
+  
+  def matchNumber(number: Int): Option[Match] = {
+    
+  }
+  
+  def numberOfMatches: Int = 
+  
+}

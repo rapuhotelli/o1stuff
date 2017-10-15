@@ -1,0 +1,39 @@
+package o1.forsilmukoita
+
+// TÄMÄ TEHTÄVÄ LIITTYY LUKUUN 5.3.
+
+import scala.collection.mutable.Buffer
+
+object Harjoitus1 extends App {
+ 
+  val lukuja = Buffer(3.4, 6.5, 2.3, 3.1, 19.2, 5.41)   // Jätä ainakin tämä rivi ennalleen. 
+
+  // Käytä alla olevien rivien sijaan silmukkaa siten, että jokaista alkiota 
+  // ei erikseen tarvitse käskeä tulostettavaksi. 
+  
+  println("Alku.")
+  for (luku <- lukuja) {
+    println("-----")
+    println(luku*2)
+  }
+  println("Loppu.")
+  
+  def vanha = {
+    println("Alku.")
+    println("-----")
+    println(lukuja(0) * 2)
+    println("-----")
+    println(lukuja(1) * 2)
+    println("-----")
+    println(lukuja(2) * 2)
+    println("-----")
+    println(lukuja(3) * 2)
+    println("-----")
+    println(lukuja(4) * 2)
+    println("-----")
+    println(lukuja(5) * 2)
+    println("Loppu.")
+  }
+  this.vanha
+}
+

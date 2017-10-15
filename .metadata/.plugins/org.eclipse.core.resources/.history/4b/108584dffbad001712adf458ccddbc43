@@ -1,0 +1,17 @@
+
+
+package o1
+object merkkijonoja {
+  
+  import scala.collection.mutable.Buffer
+
+  // Kirjoita luvun 4.4 tehtävissä pyydetty koodi tähän alle.
+  
+  def yhtaikaa(notes: Buffer[String], speed: Int) = {
+    Buffer(notes.mkString("&"), speed).mkString("/")
+  }
+  
+
+}  
+  
+  

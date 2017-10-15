@@ -1,0 +1,10 @@
+package o1.auctionhouse
+
+object EnglishAuctionTest extends App {
+  
+  val ea1 = new EnglishAuction("Swag", 50000, 10)
+  println("buyer:"+ea1.buyer)
+  println("bidding.."+ea1.bid("Pena", 55000))
+  println("price now:"+ea1.price))
+  
+}
